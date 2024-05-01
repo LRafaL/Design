@@ -4,4 +4,4 @@
 
 [Pairwise testing for filtering and sorting in an online store](https://docs.google.com/spreadsheets/d/11xVWFEm2CtEuTaBOIGr90gps4uBUJRh4ArXKnIsYkq0/edit?usp=drive_link)
 
-Testing the "PayPal" payment module using the decision-making table test design technique - https://docs.google.com/spreadsheets/d/1nJEBr2ZeZ6DehxZq1yAMpW9YIS06hhsLJlEnTHGCviU/edit?usp=sharing
+[Testing the "PayPal" payment module using the decision-making table test design technique](https://docs.google.com/spreadsheets/d/1nJEBr2ZeZ6DehxZq1yAMpW9YIS06hhsLJlEnTHGCviU/edit?usp=sharing) 
